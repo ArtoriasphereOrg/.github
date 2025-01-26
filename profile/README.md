@@ -6,6 +6,8 @@ A freestyle organization embracing creativity and innovation across multiple dom
 ---
 
 🧊 Crafting at the Edge of Innovation!
+
+
 革新の最前線で創造する！
 
 ---
