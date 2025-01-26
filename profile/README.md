@@ -12,4 +12,4 @@ A freestyle organization embracing creativity and innovation across multiple dom
 
 ---
 
-```Hello world!``` ```Hello country!``` ```Hello city!```
+```Hello world!``` ```Hello clouds!``` ```Hello github!``` ```Hello country!``` ```Hello city!```
