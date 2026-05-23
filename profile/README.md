@@ -1,6 +1,5 @@
 # Artoriasphere
 
-<img width="2560" height="1440" alt="output-onlinepngtools (1)" src="https://raw.githubusercontent.com/ArtoriasphereOrg/.github/refs/heads/main/github%20v1%20AITRD.jpg" />
 
 A organization embracing creativity and innovation across multiple domains. Whether it's **entertainment, development of AI, OS, software, robots, and much more**, we're here to explore and push the boundaries of what’s possible!
 
